@@ -1,0 +1,17 @@
+.cat_picture{
+	height: 300px;
+}
+.correct_answer, .wrong_answer, .answer{
+	font-size: 1.5em;
+	font-weight: bold;
+}
+.correct_answer, #correct_percent {
+	color: green;
+}
+.wrong_answer{
+	color: red;
+}
+#correct_percent{
+	font-size: 1.1em;
+	font-weight: bold;
+}
